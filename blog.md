@@ -9,8 +9,15 @@ title: Blog
       <h1>Insights</h1>
     </div>
     
-    <div class="text-center">
-      <p>Coming Soon...</p>
+    <div class="grid grid-3">
+      {% for post in site.posts %}
+        <div class="pillar-card" style="text-align: left;">
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p class="text-muted">{{ post.date | date: "%b %-d, %Y" }}</p>
+          <p>{{ post.description }}</p>
+          <a href="{{ post.url | relative_url }}" class="text-accent">Read More →</a>
+        </div>
+      {% endfor %}
     </div>
   </div>
 </section>
