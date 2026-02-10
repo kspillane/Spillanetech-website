@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to Spillane Tech"
 date: 2026-02-10 12:00:00 -0600
 categories: updates
-author: Kieran Spillane
+author: Kyle Spillane
 description: "We are excited to launch our new website and blog."
 ---
 
