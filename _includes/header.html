@@ -1,0 +1,33 @@
+<header class="site-header" x-data="{ 
+    visible: true, 
+    lastScrollY: window.scrollY,
+    init() {
+      window.addEventListener('scroll', () => {
+        const currentScrollY = window.scrollY;
+        if (currentScrollY > this.lastScrollY && currentScrollY > 100) {
+          this.visible = false;
+        } else {
+          this.visible = true;
+        }
+        this.lastScrollY = currentScrollY;
+      });
+    } 
+  }" :class="{ 'hidden': !visible }">
+    <div class="container nav-container">
+        <a href="{{ '/' | relative_url }}" class="logo">Spillane Tech</a>
+
+        <nav class="main-nav">
+            <ul>
+                <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                <li><a href="{{ '/about.html' | relative_url }}">About</a></li>
+                <li><a href="{{ '/services.html' | relative_url }}">Services</a></li>
+                <li><a href="{{ '/blog.html' | relative_url }}">Blog</a></li>
+                <li><a href="{{ '/contact.html' | relative_url }}">Contact</a></li>
+                <li><a href="#" class="btn">Book Now</a></li>
+            </ul>
+        </nav>
+
+        <!-- Mobile Menu Button (Placeholder logic) -->
+        <!-- In a full implementation, this would toggle a mobile drawer -->
+    </div>
+</header>
