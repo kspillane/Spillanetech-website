@@ -6,7 +6,7 @@ title: About Me
 <section class="section" style="padding-top: calc(var(--header-height) + 2rem);">
   <div class="container">
     <div class="section-title">
-      <h1>About Us</h1>
+      <h1>About Me</h1>
     </div>
 
     <div class="grid grid-2" style="margin-bottom: 4rem;">
