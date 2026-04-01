@@ -11,7 +11,7 @@ title: About Us
 
     <div class="grid grid-2" style="margin-bottom: 4rem;">
       <div>
-         <img src="https://placehold.co/600x600/0B162C/00D4FF/png?text=Kyle+Spillane" alt="Kyle Spillane" style="border-radius: 8px; border: 1px solid var(--color-border);">
+         <img src="{{ '/assets/images/kyle-profile.jpg' | relative_url }}" alt="Kyle Spillane" style="border-radius: 8px; border: 1px solid var(--color-border); max-width: 100%; height: auto;">
       </div>
       <div>
         <h2>About Me</h2>
