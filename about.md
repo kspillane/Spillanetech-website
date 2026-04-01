@@ -16,7 +16,13 @@ title: About Us
       <div>
         <h2>About Me</h2>
         <p>I am not your typical IT guy hiding in a server room. My career was forged in the high-pressure fires of the financial sector, supporting IT teams for banks and credit unions where 'downtime' and 'security breaches' simply were not options.</p>
+        <p>I hold a <strong>Master's degree in Cybersecurity and Information Assurance</strong>, as well as the <a href="https://www.isc2.org/Certifications/CISSP" target="_blank" rel="noopener noreferrer">CISSP (Certified Information Systems Security Professional)</a> certification.</p>
+        <p>For my clients, the CISSP means you are working with an internationally recognized security expert who understands how to design, engineer, and maintain a rigorous security posture. This isn't just about installing basic antivirus—it's about fundamentally protecting your business and data from the ground up to prevent breaches before they happen.</p>
         <p>But beyond the technical certifications, my foundation is in customer service. I learned early on that the best technology in the world is useless if the people using it feel unsupported or confused. I built my career on being the bridge between complex infrastructure and the people who rely on it—translating 'geek speak' into plain English and treating every question with care and urgency.</p>
+        
+        <div style="margin-top: 2rem; margin-bottom: 2rem;">
+          <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bdc9bd05-0e7b-434c-9dad-6c7cef11293c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+        </div>
       </div>
     </div>
 
