@@ -10,7 +10,7 @@ title: Contact
     </div>
     
     <div style="max-width: 600px; margin: 0 auto;">
-      <p class="text-center" style="margin-bottom: 2rem;">Ready to democratize your IT? Fill out the form below or book a consultation.</p>
+      <p class="text-center" style="margin-bottom: 2rem;">Ready to sort out your tech? Feel free to reach out using the form below, or book a time for us to chat.</p>
       
       <div style="background: rgba(255,255,255,0.05); padding: 2rem; border-radius: 8px;">
         <form action="#" method="POST">

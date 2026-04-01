@@ -14,16 +14,16 @@ title: About Us
          <img src="https://placehold.co/600x600/0B162C/00D4FF/png?text=Kyle+Spillane" alt="Kyle Spillane" style="border-radius: 8px; border: 1px solid var(--color-border);">
       </div>
       <div>
-        <h2>About Kyle Spillane</h2>
+        <h2>About Me</h2>
         <p>I am not your typical IT guy hiding in a server room. My career was forged in the high-pressure fires of the financial sector, supporting IT teams for banks and credit unions where 'downtime' and 'security breaches' simply were not options.</p>
-        <p>But beyond the technical certifications, my foundation is in customer service. I learned early on that the best technology in the world is useless if the people using it feel unsupported or confused. I built my career on being the bridge between complex infrastructure and the people who rely on it—translating 'geek speak' into business results and treating every support ticket with the urgency of a critical banking transaction.</p>
+        <p>But beyond the technical certifications, my foundation is in customer service. I learned early on that the best technology in the world is useless if the people using it feel unsupported or confused. I built my career on being the bridge between complex infrastructure and the people who rely on it—translating 'geek speak' into plain English and treating every question with care and urgency.</p>
       </div>
     </div>
 
     <div style="background: var(--color-bg-dark); padding: 3rem; border-radius: 8px;">
-      <h2>About Spillane Tech</h2>
-      <p>For too long, 'Enterprise-Grade' IT was a gated community, reserved only for massive corporations with million-dollar budgets. Small businesses were left to fend for themselves with Geek Squad solutions and consumer-grade routers.</p>
-      <p>Spillane Tech exists to break that barrier. We believe a 5-person law firm or a local coffee shop deserves the same data security, network reliability, and automation efficiency as a national bank. We bring the rigorous standards of the financial industry—redundancy, security, and strategic planning—and scale them down to fit your business. We don't just fix your computers; we upgrade your entire business infrastructure to compete at the highest level.</p>
+      <h2>My Philosophy</h2>
+      <p>For too long, really great, secure IT was a gated community, reserved only for massive corporations with million-dollar budgets. Small businesses and individuals were left to fend for themselves with frustrating, consumer-grade solutions.</p>
+      <p>I'm here to help change that. I believe that a local business, a passionate freelancer, or even just a family trying to secure their home network deserves the same reliability and peace of mind as a bank. I love bringing those high standards down to earth—making them friendly, accessible, and tailored perfectly to you. I'm not just here to fix computers; I'm here to be a trusted partner in navigating your digital world.</p>
     </div>
 
   </div>

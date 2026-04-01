@@ -13,22 +13,22 @@ title: Services
       
       <div class="pillar-card">
         <h3>Custom Automation & Workflow Design</h3>
-        <p>Stop copying and pasting data. We build custom "logic engines" using tools like n8n to connect your disparate apps. Whether it's syncing your web forms to your email marketing or automating client onboarding, we build the "digital glue" that makes your business run smoother and faster.</p>
+        <p>Stop copying and pasting data. I love building clever "logic engines" using tools like n8n to connect your favorite apps. Whether it's organizing your emails or automating client onboarding, I can help build the "digital glue" that makes your life run a little smoother.</p>
       </div>
 
       <div class="pillar-card">
-        <h3>Network Infrastructure & Wi-Fi Optimization</h3>
-        <p>Connectivity is the lifeblood of modern business. We design and install robust networks using Ubiquiti and enterprise gear. We prioritize your critical traffic (like Voice and POS) so that someone watching Netflix in the breakroom never slows down your credit card processing.</p>
+        <h3>Network & Wi-Fi Optimization</h3>
+        <p>A good connection is everything. I can help you design and set up a solid, reliable network using high-quality gear. No more dead zones, dropped video calls, or buffering when you just want to get things done.</p>
       </div>
 
       <div class="pillar-card">
-        <h3>Managed Security & Compliance</h3>
-        <p>Leveraging our background in banking IT, we deploy advanced firewalls, endpoint detection (EDR), and proactive monitoring (CrowdSec). We don't just wait for a virus; we actively block threats at the network level and ensure you meet compliance standards for your industry.</p>
+        <h3>Security & Peace of Mind</h3>
+        <p>Drawing on my background in banking IT, I can help you lock down your digital life. From setting up proper firewalls to proactive monitoring, I'll help you keep the bad guys out so you can sleep soundly, knowing your data is safe.</p>
       </div>
 
       <div class="pillar-card">
-        <h3>Strategic IT Consulting (Fractional CIO)</h3>
-        <p>Every growing business needs a technology roadmap. We help you plan your IT budget for the next 1–3 years, select the right software stack, and oversee major digital transformations. We sit on your side of the table during vendor negotiations to ensure your interests are protected.</p>
+        <h3>Friendly Tech Consulting</h3>
+        <p>Everyone eventually needs a little guidance. Think of me as your personal, fractional CIO. I can help you plan your hardware budget, pick the right software, or even sit on your side of the table when dealing with ISPs and tech vendors to make sure you get a fair deal.</p>
       </div>
 
     </div>
