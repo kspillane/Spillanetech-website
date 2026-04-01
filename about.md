@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Us
+title: About Me
 ---
 
 <section class="section" style="padding-top: calc(var(--header-height) + 2rem);">
