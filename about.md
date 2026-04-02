@@ -6,7 +6,7 @@ title: About Me
 <section class="section" style="padding-top: calc(var(--header-height) + 2rem);">
   <div class="container">
     <div class="section-title">
-      <h1>About Me</h1>
+      <h1>About Kyle</h1>
     </div>
 
     <div class="grid grid-2" style="margin-bottom: 4rem;">
@@ -14,7 +14,7 @@ title: About Me
          <img src="{{ '/assets/images/kyle-profile.jpg' | relative_url }}" alt="Kyle Spillane" style="border-radius: 8px; border: 1px solid var(--color-border); max-width: 100%; height: auto;">
       </div>
       <div>
-        <h2>About Me</h2>
+        <h2>Who am I?</h2>
         <p>I am not your typical IT guy hiding in a server room. My career was forged in the high-pressure fires of the financial sector, supporting IT teams for banks and credit unions where 'downtime' and 'security breaches' simply were not options.</p>
         <p>I hold a <strong>Master's degree in Cybersecurity and Information Assurance</strong>, as well as the <a href="https://www.isc2.org/Certifications/CISSP" target="_blank" rel="noopener noreferrer">CISSP (Certified Information Systems Security Professional)</a> certification.</p>
         <p>For my clients, the CISSP means you are working with an internationally recognized security expert who understands how to design, engineer, and maintain a rigorous security posture. This isn't just about installing basic antivirus—it's about fundamentally protecting your business and data from the ground up to prevent breaches before they happen.</p>
