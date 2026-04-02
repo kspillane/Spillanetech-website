@@ -13,24 +13,27 @@
       });
     } 
   }" :class="{ 'hidden': !visible }">
-    <div class="container nav-container">
-        <a href="{{ '/' | relative_url }}" class="logo" style="display: flex; flex-direction: column; align-items: flex-start; line-height: 1.1;">
-            <span style="font-weight: 700; margin-bottom: 2px;">Kyle Spillane, CISSP</span>
-            <span style="font-size: 0.75rem; font-weight: 300; color: var(--color-text-muted); font-style: italic; letter-spacing: 0.5px; opacity: 0.85;">Cybersecurity & IT Consultant</span>
-        </a>
+  <div class="container nav-container">
+    <a href="{{ '/' | relative_url }}" class="logo"
+      style="display: flex; flex-direction: column; align-items: flex-start; line-height: 1.1;">
+      <span style="font-weight: 700; margin-bottom: 2px;">Kyle Spillane, CISSP</span>
+      <span
+        style="font-size: 0.75rem; font-weight: 300; color: var(--color-text-muted); font-style: italic; letter-spacing: 0.5px; opacity: 0.85;">Cybersecurity
+        & IT Consultant</span>
+    </a>
 
-        <nav class="main-nav">
-            <ul>
-                <li><a href="{{ '/' | relative_url }}">Home</a></li>
-                <li><a href="{{ '/about.html' | relative_url }}">About Kyle</a></li>
-                <li><a href="{{ '/services.html' | relative_url }}">How I Can Help</a></li>
-                <li><a href="{{ '/blog.html' | relative_url }}">Blog</a></li>
-                <li><a href="{{ '/contact.html' | relative_url }}">Let's Talk</a></li>
-                <li><a href="#" class="btn">Book Now</a></li>
-            </ul>
-        </nav>
+    <nav class="main-nav">
+      <ul>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/about.html' | relative_url }}">About Me</a></li>
+        <li><a href="{{ '/services.html' | relative_url }}">How I Can Help</a></li>
+        <li><a href="{{ '/blog.html' | relative_url }}">Insights</a></li>
+        <li><a href="{{ '/contact.html' | relative_url }}">Let's Talk</a></li>
+        <li><a href="#" class="btn">Book Now</a></li>
+      </ul>
+    </nav>
 
-        <!-- Mobile Menu Button (Placeholder logic) -->
-        <!-- In a full implementation, this would toggle a mobile drawer -->
-    </div>
+    <!-- Mobile Menu Button (Placeholder logic) -->
+    <!-- In a full implementation, this would toggle a mobile drawer -->
+  </div>
 </header>
