@@ -41,6 +41,9 @@ title: About Me
         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="750e9bb4-5fab-4600-98f2-0ee46c5dded0" data-share-badge-host="https://www.credly.com"></div>
         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="257969d9-bac7-4974-8b53-8372fbbee626" data-share-badge-host="https://www.credly.com"></div>
         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="acdd3a7a-a951-4970-af40-5bf2ff2990a9" data-share-badge-host="https://www.credly.com"></div>
+        <!-- Third Batch (Newer) -->
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fb8d0016-9a84-4202-bc6a-b77168859a54" data-share-badge-host="https://www.credly.com"></div>
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="44a8a6fb-3102-4381-a6a5-ab39c40a616c" data-share-badge-host="https://www.credly.com"></div>
         <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
       </div>
     </div>
