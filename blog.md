@@ -7,6 +7,7 @@ title: Blog
   <div class="container">
     <div class="section-title">
       <h1>Insights</h1>
+      <p class="lead" style="margin-top: 1rem; color: var(--color-text-muted);">Thoughts and opinions on technology, cybersecurity, and business.</p>
     </div>
     
     <div class="grid grid-3">

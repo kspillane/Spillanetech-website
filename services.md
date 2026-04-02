@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Services
+title: How I Can Help
 ---
 
 <section class="section" style="padding-top: calc(var(--header-height) + 2rem);">
   <div class="container">
     <div class="section-title">
-      <h1>Our Services</h1>
+      <h1>How I Can Help</h1>
     </div>
 
     <div class="grid grid-2">
