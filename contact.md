@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Contact
+title: Let's Talk
 ---
 
 <section class="section" style="padding-top: calc(var(--header-height) + 2rem);">
   <div class="container">
     <div class="section-title">
-      <h1>Get In Touch</h1>
+      <h1>Let's Talk</h1>
     </div>
     
     <div style="max-width: 600px; margin: 0 auto;">
