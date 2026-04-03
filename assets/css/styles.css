@@ -396,7 +396,13 @@ input:focus, textarea:focus {
     margin-top: auto; 
     text-align: center;
     font-style: italic;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.flip-card:hover .flip-card-front .hint {
     opacity: 0.8;
+    transition-delay: 0.5s;
 }
 
 .flip-card-back {
