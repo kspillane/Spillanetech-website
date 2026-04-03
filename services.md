@@ -11,8 +11,7 @@ title: How I Can Help
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
 </p>
 </div>
-
-<div x-data="{ 
+<div markdown="0" x-data="{ 
     currentSlide: 0, 
     totalCards: 8,
     cardsPerSlide: window.innerWidth >= 1024 ? 3 : (window.innerWidth >= 768 ? 2 : 1),
@@ -31,7 +30,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 }">
 <div class="flip-card-container">
 <div class="carousel-track" :style="`transform: translateX(calc(-100% * ${currentSlide} / ${cardsPerSlide}))`">
-
 <div class="flip-card" x-data="{ isFlipped: false }" :class="{ 'is-flipped': isFlipped }" @click="isFlipped = !isFlipped">
 <div class="flip-card-inner">
 <div class="flip-card-front">
@@ -45,7 +43,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 </div>
 </div>
 </div>
-
 <div class="flip-card" x-data="{ isFlipped: false }" :class="{ 'is-flipped': isFlipped }" @click="isFlipped = !isFlipped">
 <div class="flip-card-inner">
 <div class="flip-card-front">
@@ -59,7 +56,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 </div>
 </div>
 </div>
-
 <div class="flip-card" x-data="{ isFlipped: false }" :class="{ 'is-flipped': isFlipped }" @click="isFlipped = !isFlipped">
 <div class="flip-card-inner">
 <div class="flip-card-front">
@@ -73,7 +69,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 </div>
 </div>
 </div>
-
 <div class="flip-card" x-data="{ isFlipped: false }" :class="{ 'is-flipped': isFlipped }" @click="isFlipped = !isFlipped">
 <div class="flip-card-inner">
 <div class="flip-card-front">
@@ -87,7 +82,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 </div>
 </div>
 </div>
-
 <div class="flip-card" x-data="{ isFlipped: false }" :class="{ 'is-flipped': isFlipped }" @click="isFlipped = !isFlipped">
 <div class="flip-card-inner">
 <div class="flip-card-front">
@@ -101,7 +95,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 </div>
 </div>
 </div>
-
 <div class="flip-card" x-data="{ isFlipped: false }" :class="{ 'is-flipped': isFlipped }" @click="isFlipped = !isFlipped">
 <div class="flip-card-inner">
 <div class="flip-card-front">
@@ -115,7 +108,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 </div>
 </div>
 </div>
-
 <div class="flip-card" x-data="{ isFlipped: false }" :class="{ 'is-flipped': isFlipped }" @click="isFlipped = !isFlipped">
 <div class="flip-card-inner">
 <div class="flip-card-front">
@@ -129,7 +121,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 </div>
 </div>
 </div>
-
 <div class="flip-card" x-data="{ isFlipped: false }" :class="{ 'is-flipped': isFlipped }" @click="isFlipped = !isFlipped">
 <div class="flip-card-inner">
 <div class="flip-card-front">
@@ -143,10 +134,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 </div>
 </div>
 </div>
-
 </div>
 </div>
-
 <div class="carousel-nav">
 <button class="carousel-arrow" aria-label="Previous" @click="prev()" :disabled="currentSlide === 0">
 <i class="fas fa-chevron-left"></i>
@@ -160,7 +149,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 <i class="fas fa-chevron-right"></i>
 </button>
 </div>
-
 </div>
 </div>
 </section>
