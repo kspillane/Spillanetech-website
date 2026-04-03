@@ -418,21 +418,28 @@ input:focus, textarea:focus {
 }
 
 .carousel-arrow {
-  background: none;
+  background-color: var(--color-border);
   border: none;
-  color: var(--color-text);
-  font-size: 1.5rem;
+  color: var(--color-bg);
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
   cursor: pointer;
-  transition: color 0.2s;
-  padding: 0.5rem;
+  transition: background-color 0.2s, opacity 0.2s;
+  padding: 0;
 }
 
 .carousel-arrow:hover {
-  color: var(--color-accent);
+  background-color: var(--color-accent);
 }
 
 .carousel-arrow:disabled {
-  color: var(--color-border);
+  background-color: var(--color-border);
+  opacity: 0.3;
   cursor: not-allowed;
 }
 
